@@ -1,0 +1,12 @@
+{
+    "head": {
+        "shop": "storefront-catalog-en",
+        "currency": "EUR"
+    },
+    "items": [
+        {
+            "product_id": "1000101",
+            "value": 995.00
+        }
+    ]
+}
